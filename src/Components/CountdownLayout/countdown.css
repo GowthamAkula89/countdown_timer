@@ -1,0 +1,27 @@
+.form-data{
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    justify-content: center;
+    align-items: center;
+}
+.input-field{
+    background-color: inherit;
+    border: 2px solid rgb(249, 246, 246);
+    color: white;
+    width: 147px;
+    height: 32px;
+    border-radius: 6px;
+}
+.submit-btn{
+    background-color: inherit;
+    color: white;
+    border: 2px solid white;
+    border-radius: 5px;
+    height: 32px;
+    width: 88px;
+}
+.countdown-message{
+    margin-top: 35px;
+    color: #8315d1;
+}

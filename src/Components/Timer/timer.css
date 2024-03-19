@@ -1,0 +1,25 @@
+.time-value-container{
+    height: 62px;
+    width: 75px;
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+    background-image: linear-gradient(to top right, #FF00FF, #6666FF, #38c4ff);
+    border-radius: 7px;
+    padding: 5px;
+}
+.time-value{
+    color: white;
+    font-size: 25px;
+    font-weight: 500;
+}
+.time-text{
+    color: rgb(209, 199, 199);
+    font-size: 18px;
+    font-weight: 500;
+}
+.timer-container{
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+}
