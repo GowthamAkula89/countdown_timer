@@ -8,15 +8,15 @@
 .input-field{
     background-color: inherit;
     border: 2px solid rgb(249, 246, 246);
-    color: white;
+    color: rgb(247, 241, 241);
     width: 147px;
     height: 32px;
     border-radius: 6px;
 }
 .submit-btn{
     background-color: inherit;
-    color: white;
-    border: 2px solid white;
+    color: rgb(242, 238, 238);
+    border: 2px solid rgb(249, 246, 246);
     border-radius: 5px;
     height: 32px;
     width: 88px;
